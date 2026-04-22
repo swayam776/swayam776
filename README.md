@@ -3,8 +3,8 @@
 Android Developer focused on building real-world apps.
 
 ## 🚀 Projects
-- 📚 Flipbook Viewer App (Smart TV)
-- 🏫 Classroom Management App
+- 📚 Merit Box Classroom
+- 🏫 Edu-Invent Flipbook Viewer
 
 ## 🛠 Tech Stack
 Kotlin, Java, Firebase, Retrofit, Room
