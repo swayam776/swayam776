@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Swayam 👋
 
-<!--
-**swayam776/swayam776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer focused on building real-world apps.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 📚 Flipbook Viewer App (Smart TV)
+- 🏫 Classroom Management App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Kotlin, Java, Firebase, Retrofit, Room
+
+## 📫 Contact
+LinkedIn: (add later)
